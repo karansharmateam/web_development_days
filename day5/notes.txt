@@ -1,0 +1,37 @@
+css property:
+       width: value;   width: 300px
+       height: value;  height: 400px
+
+====================css types==============================
+
+1. inline css      2. internal css       3. external css
+
+
+========================= inline css ========================= 
+
+When you write inline CSS, you write standard CSS property/value pairs directly inside quotation marks:
+
+HTML
+<element style="property: value; property: value;">
+Here is a practical example:
+
+HTML
+<p style="color: blue; font-size: 18px; font-weight: bold;">
+    This text is blue, larger, and bold.
+</p>
+
+===================2. internal css===============================
+
+for one page css with selectors/property/element/tag/attribute
+
+========================3. External css======================
+
+use this for multiple pages to only one css use for all pages 
+
+=======================  selectors ===============================
+
+=========1.#id selectors
+
+=========2. .class selectors
+
+=========h1 tag selectors

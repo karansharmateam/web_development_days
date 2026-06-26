@@ -1,0 +1,40 @@
+order list
+1   a   i
+2   b   ii
+3   c   iii
+4   d   iv
+5   d   v
+
+unorder list
+item
+item
+item
+item
+item
+
+.   o
+.   o
+.   o
+.   o
+.   o
+
+description list -> title and description
+
+* <Doctype html> is showing the we are using html version.5 without this you cant 
+use many 5th version tag which is implement in this version
+
+* There are three type of lists
+=> order list
+=> unorder list
+=> description list
+
+order list -> <ol> 
+                  <li> Item </li> 
+              </ol> tag
+              
+unorder list -> <ul>
+                    <li> Item </li>
+                </ul>
+
+
+

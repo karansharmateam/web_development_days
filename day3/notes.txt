@@ -1,0 +1,14 @@
+table
+table row
+table heading
+table body
+
+<table> </table>
+<thead> </thead>
+<tbody> </tbody>
+
+<tr> </tr>
+<td> </td>
+<th> </th> 
+
+
